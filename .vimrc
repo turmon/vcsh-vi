@@ -1,0 +1,12 @@
+syntax enable
+set showmode
+set wildmenu
+set ruler<
+set autoindent
+set expandtab
+set hlsearch
+set showmatch
+set ignorecase
+set smartcase
+set nobackup
+set nowritebackup
